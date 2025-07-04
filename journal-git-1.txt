@@ -1,0 +1,6 @@
+# DevOps Journal - July 4, 2025
+
+Today I learned:
+- How Git tracks changes using git add and git commit
+- The meaning of git add .
+- That Cindrella messed up and Gautham fixed it 😂
