@@ -1,0 +1,6 @@
+Added a new shell script to clean all the .tmp and .log files 
+
+Script : echo " Cleaning up .log and .tmp files in $(pwd)..."
+	 rm -v *.log 2>/dev/null
+	 rm -v *.tmp 2>/dev/null
+	 echo "CleanUp complete"
